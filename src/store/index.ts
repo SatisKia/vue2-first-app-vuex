@@ -20,7 +20,7 @@ export default new Vuex.Store({
       state.hoge++
     },
     add (state, payload) {
-      state.hoge += payload.fuga
+      state.hoge += payload.piyo
     }
   },
   actions: {
